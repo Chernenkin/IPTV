@@ -1,0 +1,92 @@
+#EXTM3U
+#EXTINF:0,tvg-logo="https://maximum.ru/rx/350x350,c_1,g_CenterCenter/uploads/98/60/f2abe8785f17da154c2f9ba65886.png"Maximum
+#EXTGRP:Радио
+https://maximum.hostingradio.ru/maximum96.aacp
+#EXTINF:0,Maximum SUPERNOVA
+#EXTGRP:Радио
+tvg-logo="https://maximum.ru/rx/350x350,c_1,g_CenterCenter/uploads/2a/2b/a88e6829a7790eab30f87f26e514.png"
+https://maximum-unplugged.hostingradio.ru/maxunplugged96.aacp
+#EXTINF:0,Maximum HEAVY 80S
+#EXTGRP:Радио
+tvg-logo="https://maximum.ru/rx/350x350,c_1,g_CenterCenter/uploads/9d/c4/350ff944343731f34c16b3a0a930.png"
+https://maximum80.hostingradio.ru/max8096.aacp
+#EXTINF:0,Maximum COVERS
+#EXTGRP:Радио
+tvg-logo="https://maximum.ru/rx/350x350,c_1,g_CenterCenter/uploads/f3/40/58433137fadf6ba5bac9debd306f.png"
+https://maximum-cover.hostingradio.ru/maxcover96.aacp
+#EXTINF:0,Maximum SOFT
+#EXTGRP:Радио
+tvg-logo="https://maximum.ru/rx/350x350,c_1,g_CenterCenter/uploads/37/cc/ce21f12ae9e89ec9d42b75d3c194.png"
+https://maximum-soft.hostingradio.ru/maxsoft96.aacp
+#EXTINF:0,Maximum BEATS $ RIFFS
+#EXTGRP:Радио
+tvg-logo="https://maximum.ru/rx/350x350,c_1,g_CenterCenter/uploads/7b/52/49651d4c67d050e79c3a4327d272.png"
+https://maximum-erock.hostingradio.ru/maxerock96.aacp
+#EXTINF:0,Maximum EMO
+#EXTGRP:Радио
+tvg-logo="https://maximum.ru/rx/350x350,c_1,g_CenterCenter/uploads/44/cd/0b7acd805b3b83a1f8da588817ed.png"
+https://maximum-dark.hostingradio.ru/maxdark96.aacp
+#EXTINF:0,Maximum BRITPOP
+#EXTGRP:Радио
+tvg-logo="https://maximum.ru/rx/350x350,c_1,g_CenterCenter/uploads/3a/c3/be0336135be068d7e5cb024dbf10.png"
+https://maximum-britpop.hostingradio.ru/maxbritpop96.aacp
+#EXTINF:0,Maximum PUNK
+#EXTGRP:Радио
+tvg-logo="https://maximum.ru/rx/350x350,c_1,g_CenterCenter/uploads/de/99/5453141d9dc5be62da71d7c14b00.png"
+https://maximum-punk.hostingradio.ru/maxpunk96.aacp
+#EXTINF:0,Maximum GRUNGE
+#EXTGRP:Радио
+tvg-logo="https://maximum.ru/rx/350x350,c_1,g_CenterCenter/uploads/c9/86/5cd74f130d1dc8a3dc1519752feb.png"
+https://maximum-grunge.hostingradio.ru/grunge96.aacp
+#EXTINF:0,Maximum LINKIN PARK
+#EXTGRP:Радио
+tvg-logo="https://maximum.ru/rx/350x350,c_1,g_CenterCenter/uploads/20/9b/68f800627fb69fbe6e9a5185a38e.png"
+https://maximum-linkinpark.hostingradio.ru/linkinpark96.aacp
+#EXTINF:0,Maximum RAMMSTEIN
+#EXTGRP:Радио
+tvg-logo="https://maximum.ru/rx/350x350,c_1,g_CenterCenter/uploads/20/03/6e0ba5798cb01038a15a93096466.png"
+https://maximum-rammstein.hostingradio.ru/rammstein96.aacp
+#EXTINF:0,Maximum INDIE
+#EXTGRP:Радио
+tvg-logo="https://maximum.ru/rx/350x350,c_1,g_CenterCenter/uploads/0d/51/85c3ac505714c74d1c6ff2ff81fb.png"
+https://maximum-indie.hostingradio.ru/indie96.aacp
+#EXTINF:0,Maximum NIRVANA
+#EXTGRP:Радио
+tvg-logo="https://maximum.ru/rx/350x350,c_1,g_CenterCenter/uploads/cc/d0/587f3db7f1654972280ae0435130.png"
+https://maximum-nirvana.hostingradio.ru/nirvana96.aacp
+#EXTINF:0,Maximum DEPECHE MODE
+#EXTGRP:Радио
+tvg-logo="https://maximum.ru/rx/350x350,c_1,g_CenterCenter/uploads/3e/a5/eb34ab7084ec94631d3d86c5253e.jpg"
+https://depechemode.hostingradio.ru/depechemode96.aacp
+#EXTINF:0,Maximum MONDAY
+#EXTGRP:Радио
+tvg-logo="https://maximum.ru/rx/350x350,c_1,g_CenterCenter/uploads/d0/2b/7151da327b40ada34d52156b54d0.png"
+https://heavymonday.hostingradio.ru/heavymonday96.aacp
+#EXTINF:0,Maximum ДЕВЯНОСТЫЕ
+#EXTGRP:Радио
+tvg-logo="https://maximum.ru/rx/350x350,c_1,g_CenterCenter/uploads/72/ec/a3ca1ca6da7a07c3af734c6a1511.jpg"
+https://maximum90.hostingradio.ru/maximum9096.aacp
+#EXTINF:0,Maximum METALLICA
+#EXTGRP:Радио
+tvg-logo="https://maximum.ru/rx/350x350,c_1,g_CenterCenter/uploads/87/3c/4e4f6ff6065f72beb03a313a7876.jpg"
+https://metallica.hostingradio.ru/metallica96.aacp
+#EXTINF:0,Maximum МИЛЛЕНИУМ
+#EXTGRP:Радио
+tvg-logo="https://maximum.ru/rx/350x350,c_1,g_CenterCenter/uploads/49/d7/ec57aa217a6d615263a1eac29b24.png"
+https://millenium.hostingradio.ru/millenium96.aacp
+#EXTINF:0,Maximum ROCK HITS
+#EXTGRP:Радио
+tvg-logo="https://maximum.ru/rx/350x350,c_1,g_CenterCenter/uploads/b0/55/9445a88b9d10cf3217fa4d9e6b79.jpg"
+https://rockhits.hostingradio.ru/rockhits96.aacp
+#EXTINF:0,Maximum РЕГБИ
+#EXTGRP:Радио
+tvg-logo="https://maximum.ru/rx/350x350,c_1,g_CenterCenter/uploads/aa/61/8cbd89a97e09b5a7f44f1a16e256.png"
+https://rugby.hostingradio.ru/rugby96.aacp
+#EXTINF:0,Maximum RUSSIAN ROCK
+#EXTGRP:Радио
+tvg-logo="https://maximum.ru/rx/350x350,c_1,g_CenterCenter/uploads/34/93/0046ceee40a9a452200704b302b8.png"
+https://maximum-russian.hostingradio.ru/maxrussian96.aacp
+#EXTINF:0,Maximum NEW RUSSIAN
+#EXTGRP:Радио
+tvg-logo="https://maximum.ru/rx/350x350,c_1,g_CenterCenter/uploads/d9/9a/bc4e8839cf926d507fed4f8a3456.png"
+https://maximum-newrussians.hostingradio.ru/maxnewrussians96.aacp
