@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-rec="0",Губерния Самара
-#EXTGRP:Губерния
+#EXTINF:0 tvg-rec="0",СОВА Губерния Самара
+#EXTGRP:новости
 https://live-guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/tracks-v1a1/mono.m3u8
