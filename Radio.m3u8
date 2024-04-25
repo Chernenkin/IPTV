@@ -1,100 +1,100 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFAWbtpXK230SJFobrUWWRYBMty_OYLDGpHvLwfpPTY20VRIEmkesV0WkWoVsa75VaSPQM-quSmGX0c=3KnFIAf1KAizJx-qHp9CYg.jpg",Maximum
-#EXTGRP:Радио
+#EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/maximum/96/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFQXa91XK230SJFobrUWWRYBMty_OYLDGpHvLwfpPTY20VRIEmkesV0WkWoVsa75VaSPQM-quSmGX0c=Nulgc9iBtPDtwc5nDsU-jQ.jpg",Maximum SUPERNOVA
-#EXTGRP:Радио
+#EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/maxunplugged/96/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFQXa9tXK230SJFobrUWWRYBMty_OYLDGpHvLwfpPTY20VRIEmkesV0WkWoVsa75VaSPQM-quSmGX0c=EJ7JDfVLBGRHzLISLcHtHg.jpg",Maximum HEAVY 80S
-#EXTGRP:Радио
+#EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/max80/96/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFQXa9lXK230SJFobrUWWRYBMty_OYLDGpHvLwfpPTY20VRIEmkesV0WkWoVsa75VaSPQM-quSmGX0c=s0xR2BHylBfeN5nBMz2jkA.jpg",Maximum COVERS
-#EXTGRP:Радио
+#EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/maxcover/96/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFEVb8ZFY332RZglc7EVQgRXOs2qcM7CE5j-Pkv7dCEn0FNUVDBVs1AP2HcdqLXuQ-2NTs2uuSmGRg=KmDd8o89uaSfB8cPeKPA_g.jpg",Maximum SOFT
-#EXTGRP:Радио
+#EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/maxsoft/96/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFESaMZFY332RZglc7EVQgRXOs2qcM7CE5j-Pkv7dCEn0FNUVDBVs1AP2HcdqLXuQ-2NTs2uuSmGRg=jT8x7sIFJ6xFZKwk_VJVgA.jpg",Maximum BEATS $ RIFFS
-#EXTGRP:Радио
+#EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/maxerock/96/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFEVYcZFY332RZglc7EVQgRXOs2qcM7CE5j-Pkv7dCEn0FNUVDBVs1AP2HcdqLXuQ-2NTs2uuSmGRg=d0lLvPnRJAUvAwUbO-trfw.jpg",Maximum EMO
-#EXTGRP:Радио
+#EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/maxdark/96/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFEVYMZFY332RZglc7EVQgRXOs2qcM7CE5j-Pkv7dCEn0FNUVDBVs1AP2HcdqLXuQ-2NTs2uuSmGRg=mc4IayobPUPcbn4YgNGsUg.jpg",Maximum BRITPOP
-#EXTGRP:Радио
+#EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/maxbritpop/96/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFEUbMZFY332RZglc7EVQgRXOs2qcM7CE5j-Pkv7dCEn0FNUVDBVs1AP2HcdqLXuQ-2NTs2uuSmGRg=jqrOWTF61Jzny0mwjyukAQ.jpg",Maximum PUNK
-#EXTGRP:Радио
+#EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/maxpunk/96/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFEUbcZFY332RZglc7EVQgRXOs2qcM7CE5j-Pkv7dCEn0FNUVDBVs1AP2HcdqLXuQ-2NTs2uuSmGRg=YC2NjuKwzdoUpjKzNBFjLA.jpg",Maximum GRUNGE
-#EXTGRP:Радио
+#EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/grunge/96/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFYRbNtXK230SJFobrUWWRYBMty_OYLDGpHvLwfpPTY20VRIEmkesV0WkWoVsa75VaSPQM-quSmGX0c=LOFJiKA--CQYTvH0CkjY0Q.jpg",Maximum LINKIN PARK
-#EXTGRP:Радио
+#EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/linkinpark/96/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFYRbNdXK230SJFobrUWWRYBMty_OYLDGpHvLwfpPTY20VRIEmkesV0WkWoVsa75VaSPQM-quSmGX0c=YA4bdPurmQ1MVAkeTEF_9w.jpg",Maximum RAMMSTEIN
-#EXTGRP:Радио
+#EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/rammstein/96/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFEUYMZFY332RZglc7EVQgRXOs2qcM7CE5j-Pkv7dCEn0FNUVDBVs1AP2HcdqLXuQ-2NTs2uuSmGRg=zI3fuOACe7CxFX2juhaB2w.jpg",Maximum INDIE
-#EXTGRP:Радио
+#EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/indie/96/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFYRbdxXK230SJFobrUWWRYBMty_OYLDGpHvLwfpPTY20VRIEmkesV0WkWoVsa75VaSPQM-quSmGX0c=HDPGbiNguUWDK_Hn2BVrcg.jpg",Maximum NIRVANA
-#EXTGRP:Радио
+#EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/nirvana/96/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFYRbNpXK230SJFobrUWWRYBMty_OYLDGpHvLwfpPTY20VRIEmkesV0WkWoVsa75VaSPQM-quSmGX0c=fQgF4lJiMB3Us2QdhTb_lg.jpg",Maximum DEPECHE MODE
-#EXTGRP:Радио
+#EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/depechemode/96/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFEVacZFY332RZglc7EVQgRXOs2qcM7CE5j-Pkv7dCEn0FNUVDBVs1AP2HcdqLXuQ-2NTs2uuSmGRg=C3NVAmeB7jK0aN0G4j1SEw.jpg",Maximum HEAVY MONDAY
-#EXTGRP:Радио
+#EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/heavymonday/96/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFEVasZFY332RZglc7EVQgRXOs2qcM7CE5j-Pkv7dCEn0FNUVDBVs1AP2HcdqLXuQ-2NTs2uuSmGRg=-vqRehPfxfmh31ACL3IbZQ.jpg",Maximum ДЕВЯНОСТЫЕ
-#EXTGRP:Радио
+#EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/maximum90/96/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFYRbd5XK230SJFobrUWWRYBMty_OYLDGpHvLwfpPTY20VRIEmkesV0WkWoVsa75VaSPQM-quSmGX0c=v-Feu8fZKTYa0No0xukl_A.jpg",Maximum METALLICA
-#EXTGRP:Радио
+#EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/metallica/96/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFEVbMZFY332RZglc7EVQgRXOs2qcM7CE5j-Pkv7dCEn0FNUVDBVs1AP2HcdqLXuQ-2NTs2uuSmGRg=2-kZivtjkm-KsEoLteyJiA.jpg",Maximum МИЛЛЕНИУМ
-#EXTGRP:Радио
+#EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/millenium/96/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFEVbcZFY332RZglc7EVQgRXOs2qcM7CE5j-Pkv7dCEn0FNUVDBVs1AP2HcdqLXuQ-2NTs2uuSmGRg=NW5aXSipiyl53TEIDtZOpQ.jpg",Maximum ROCK HITS
-#EXTGRP:Радио
+#EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/rockhits/96/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFEVbsZFY332RZglc7EVQgRXOs2qcM7CE5j-Pkv7dCEn0FNUVDBVs1AP2HcdqLXuQ-2NTs2uuSmGRg=xOeeJVz3oOJsarwMw5kH0w.jpg",Maximum РЕГБИ
-#EXTGRP:Радио
+#EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/rugby/96/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFQXa9xXK230SJFobrUWWRYBMty_OYLDGpHvLwfpPTY20VRIEmkesV0WkWoVsa75VaSPQM-quSmGX0c=ZwAsGSrdfMkhPFuOgbsZyg.jpg",Maximum RUSSIAN ROCK
-#EXTGRP:Радио
+#EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/maxrussian/96/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFQXa9pXK230SJFobrUWWRYBMty_OYLDGpHvLwfpPTY20VRIEmkesV0WkWoVsa75VaSPQM-quSmGX0c=QXeFZwcXzF2LMSf7or_KWQ.jpg",Maximum NEW RUSSIAN
-#EXTGRP:Радио
+#EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/maxnewrussians/96/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFYfbdtXK230SJFobrUWWRYBMty_OYLDGpHvLwfpPTY20VRIEmkesV0WkWoVsa75VaSPQM-quSmGX0c=2YScVg2sDAk24kCOnccXmg.jpg",Maximum MUSE
-#EXTGRP:Радио
+#EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/maxmuse/96/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFYfbdpXK230SJFobrUWWRYBMty_OYLDGpHvLwfpPTY20VRIEmkesV0WkWoVsa75VaSPQM-quSmGX0c=iG3QPP_wxDD6H9VnErkw3Q.jpg",Maximum RED HOT CHILI PEPPERS
-#EXTGRP:Радио
+#EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/maxrhcp/96/playlist.m3u8
