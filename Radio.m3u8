@@ -98,3 +98,87 @@ https://hls-01-maximum.hostingradio.ru/maxmuse/96/playlist.m3u8
 #EXTINF:0 tvg-logo="https://maximum.ru/b/d/XWbK87shCFYfbdpXK230SJFobrUWWRYBMty_OYLDGpHvLwfpPTY20VRIEmkesV0WkWoVsa75VaSPQM-quSmGX0c=iG3QPP_wxDD6H9VnErkw3Q.jpg",Maximum RED HOT CHILI PEPPERS
 #EXTGRP:Радио Maximum
 https://hls-01-maximum.hostingradio.ru/maxrhcp/96/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://montecarlo.ru/uploads/50/a2/ffdb64da670d92ab2e38e08b6860.png",Monte Carlo
+#EXTGRP:Радио Monte Carlo
+https://montecarlo.hostingradio.ru/montecarlo96.aacp
+
+#EXTINF:0 tvg-logo="https://montecarlo.ru/uploads/b1/04/0e030c86520cd14ddb88ddda8725.png",Winter Cup
+#EXTGRP:Радио Monte Carlo
+https://mc-wintercup.hostingradio.ru/wintercup96.aacp
+
+#EXTINF:0 tvg-logo="https://montecarlo.ru/uploads/79/26/206731ee5e8e1e065e196d98fffb.png",Covers
+#EXTGRP:Радио Monte Carlo
+https://mc-covers.hostingradio.ru/mccovers96.aacp
+
+#EXTINF:0 tvg-logo="https://montecarlo.ru/uploads/08/4e/a153870f43981e79c3470f91839f.png",Summertime
+#EXTGRP:Радио Monte Carlo
+https://mc-summertime.hostingradio.ru/summertime96.aacp
+
+#EXTINF:0 tvg-logo="https://montecarlo.ru/uploads/10/2a/7264f6f1da34f2365c2395dc42ab.png",Chill Lounge
+#EXTGRP:Радио Monte Carlo
+https://mc-chilllonge.hostingradio.ru/chilllonge96.aacp
+
+#EXTINF:0 tvg-logo="https://montecarlo.ru/uploads/4f/ad/26bec1c59710cac0ecac43879471.png",Новогоднее радио
+#EXTGRP:Радио Monte Carlo
+https://mc-newyear.hostingradio.ru/newyear96.aacp
+
+#EXTINF:0 tvg-logo="https://montecarlo.ru/uploads/12/7e/f557b313c04add4790ef6a399d5f.png",The Best of Crossovers
+#EXTGRP:Радио Monte Carlo
+https://mc-crossover.hostingradio.ru/crossover96.aacp
+
+#EXTINF:0 tvg-logo="https://montecarlo.ru/uploads/c2/eb/e0582daf79de50abf322c73741c5.png",Funk Cocktail
+#EXTGRP:Радио Monte Carlo
+https://mc-funkcoctail.hostingradio.ru/funkcoctail96.aacp
+
+#EXTINF:0 tvg-logo="https://montecarlo.ru/uploads/29/36/995740dff2b24fd5c0b52053145b.png",Monte Italiano
+#EXTGRP:Радио Monte Carlo
+https://mc-italiano.hostingradio.ru/italiano96.aacp
+
+#EXTINF:0 tvg-logo="https://montecarlo.ru/uploads/75/98/30a50d1bbc4c4f5739eec264790e.png",Wondeful Blues
+#EXTGRP:Радио Monte Carlo
+https://mc-blues.hostingradio.ru/blues96.aacp
+
+#EXTINF:0 tvg-logo="https://montecarlo.ru/uploads/6b/74/c7794b039930d68fa030cdfb87b5.png",Meditation
+#EXTGRP:Радио Monte Carlo
+https://mc-meditation.hostingradio.ru/meditation96.aacp
+
+#EXTINF:0 tvg-logo="https://montecarlo.ru/uploads/0e/a3/5c8b242fb565dd1a4675ffa0b226.png",Время Джаза
+#EXTGRP:Радио Monte Carlo
+https://mc-mcjazz.hostingradio.ru/mcjazz96.aacp
+
+#EXTINF:0 tvg-logo="https://montecarlo.ru/uploads/9d/fb/ef9cd4bf6951aea3fa3e6045b728.png",France
+#EXTGRP:Радио Monte Carlo
+https://mc-france.hostingradio.ru/france96.aacp
+
+#EXTINF:0 tvg-logo="https://montecarlo.ru/uploads/50/38/b80a14ad09903a94555471125a40.png",Gold Collection
+#EXTGRP:Радио Monte Carlo
+https://mc-mcgold.hostingradio.ru/mcgold96.aacp
+
+#EXTINF:0 tvg-logo="https://montecarlo.ru/uploads/92/11/2060f684d8f38a7ab102e7221726.png",Песни о Любви
+#EXTGRP:Радио Monte Carlo
+https://mc-pesniolyubvi.hostingradio.ru/pesniolyubvi96.aacp
+
+#EXTINF:0 tvg-logo="https://montecarlo.ru/uploads/9a/4d/e1a9c7cd13b2d6bc31f8110dff2d.png",Bossa Nova
+#EXTGRP:Радио Monte Carlo
+https://mc-mcbossa.hostingradio.ru/mcbossa96.aacp
+
+#EXTINF:0 tvg-logo="https://montecarlo.ru/uploads/c3/bf/7f1e845364f1656b13c402e6e8ee.png",Sweet
+#EXTGRP:Радио Monte Carlo
+https://mc-mcsweet.hostingradio.ru/mcsweet96.aacp
+
+#EXTINF:0 tvg-logo="https://montecarlo.ru/uploads/ab/04/8cc3f9374223b0cd52c9da879e04.png",Nights
+#EXTGRP:Радио Monte Carlo
+https://mc-mcnight.hostingradio.ru/mcnight96.aacp
+
+#EXTINF:0 tvg-logo="https://montecarlo.ru/uploads/86/b7/a7d67833f46ad603244b3233e9df.png",Музыка без Слов
+#EXTGRP:Радио Monte Carlo
+https://mc-muzykabezslov.hostingradio.ru/muzykabezslov96.aacp
+
+#EXTINF:0 tvg-logo="https://montecarlo.ru/uploads/75/d8/dc92c7479a1981c899c15699ca8d.png",Golf Cup
+#EXTGRP:Радио Monte Carlo
+https://mc-golfcup.hostingradio.ru/golfcup96.aacp
+
+#EXTINF:0 tvg-logo="https://montecarlo.ru/uploads/5e/12/acbf121277d9d283dfd66d2763a2.png",Мировое кино
+#EXTGRP:Радио Monte Carlo
+https://mc-mirkino.hostingradio.ru/mirkino96.aacp
